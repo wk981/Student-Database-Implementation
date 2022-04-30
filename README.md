@@ -26,7 +26,7 @@ Students and Faculities
 13. Exit
 
 ## DSA Used
-BST
+Object Orientated BST and AVL tree
 
 ## Lesson Learnt
 1. Implementation of multiple data in a node.(BST_Node's std::string name_param,int account_param, std::string pass_param, int bal_param).From bank management project
@@ -52,7 +52,7 @@ BST
 4. Set limit for inputs (Done. Implemented multiple while loop across the functions.h to check for upper and lower limit of input parameteres)
 
 ## Goals
-[Goal]("")
+[Goal]("https://github.com/wk981/Student-Database-Implementation/tree/main/Goal")
 
 ## References
 1. wkhaliddev's Bank Management - https://github.com/wkhaliddev/Bank-Management/blob/master/DSAproject/main.cpp
