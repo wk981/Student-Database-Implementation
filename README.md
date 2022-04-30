@@ -52,7 +52,7 @@ Object Orientated BST and AVL tree
 4. Set limit for inputs (Done. Implemented multiple while loop across the functions.h to check for upper and lower limit of input parameteres)
 
 ## Goals
-[Goal]("https://github.com/wk981/Student-Database-Implementation/tree/main/Goal")
+[Goal](https://github.com/wk981/Student-Database-Implementation/tree/main/Goal)
 
 ## References
 1. wkhaliddev's Bank Management - https://github.com/wkhaliddev/Bank-Management/blob/master/DSAproject/main.cpp
