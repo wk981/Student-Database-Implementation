@@ -51,8 +51,8 @@ Object Orientated BST and AVL tree
 3. Optimize main.cpp to look cleaner(Done. Transfer functions from main.cpp to function.h)
 4. Set limit for inputs (Done. Implemented multiple while loop across the functions.h to check for upper and lower limit of input parameteres)
 
-## Goals
-[Goal](https://github.com/wk981/Student-Database-Implementation/tree/main/Goal)
+## Goals(Improvements roadmap)
+[Goal](https://github.com/wk981/Student-Database-Implementation/tree/main/Goal) 
 
 ## References
 1. wkhaliddev's Bank Management - https://github.com/wkhaliddev/Bank-Management/blob/master/DSAproject/main.cpp
